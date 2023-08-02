@@ -42,3 +42,12 @@ body {
     border-radius: 0px;
     margin: -20px -10px;
 }
+
+img {
+    /* defines the images and its styles */
+    width: 9%;
+    float: left;
+    background: lightskyblue;
+    position: relative;
+    margin: 0px 30px;
+}
